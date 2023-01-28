@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando HTML, CSS & JavaScript
+- 🌱 Atualmente estudando ReactJS
 - 📫 Contate-me no email: joaoengel95@gmail.com
 
 <div align="center">

@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente estudando ReactJS
+- 🌱 Atualmente estudando React
 - 📫 Contate-me no email: joaoengel95@gmail.com
 
 <div align="center">

@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o João Engel
 
-Sou **Sou Biólogo e hoje atuo como Dev Júnior**, com foco em **dados, automações, integração de sistemas e aplicações com Inteligência Artificial**.  
+**Sou Biólogo e hoje atuo como Dev Júnior**, com foco em **dados, automações, integração de sistemas e aplicações com Inteligência Artificial**.  
 Atuo no desenvolvimento de soluções que conectam sistemas, APIs e dados para otimizar processos e gerar eficiência operacional.
 
 ### 🚀 Atuação

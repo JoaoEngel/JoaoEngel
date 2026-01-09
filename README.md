@@ -10,7 +10,7 @@ Atuo no desenvolvimento de soluções que conectam sistemas, APIs e dados para o
 - Aplicações com IA (LLMs, agentes e automações inteligentes)
 
 ### 🛠️ Tecnologias
-**Python · JavaScript · React · Node.js · Pandas · Automação · APIs REST · Docker · Docker Compose · MySQL · PostgreSQL · IA aplicada · MCP · Git**
+**Python · JavaScript · React · Node.js · Automação · APIs REST · Docker · MySQL · PostgreSQL · IA aplicada · MCP · Git**
 
 ### 📫 Contato
 - ✉️ Email: **joaoengel95@gmail.com**  

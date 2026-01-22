@@ -15,4 +15,3 @@ Atuo no desenvolvimento de soluções que conectam sistemas, APIs e dados para o
 ### 📫 Contato
 - ✉️ Email: **joaoengel95@gmail.com**  
 - 💼 LinkedIn: [João Fabiano Engel](https://www.linkedin.com/in/joão-fabiano-engel-4a04b2160/)  
-- 📸 Instagram: [@joao.engel.1](https://www.instagram.com/joao.engel.1/)
